@@ -1,2 +1,2 @@
-# Classification-Titanic-Dataset
-[Binary Classification with the Titanic Dataset](https://github.com/Donges-Niklas/Machine-Learning-Portfolio/blob/master/Binary%20Classification%20with%20the%20Titanic%20Dataset/binary_classification_titanic.ipynb): An end to end machine learning project that goes among other things through Data Analysis, Data Preprocessing, building and evaluating Machine Learning models with a deep focus on the Random Forest Classifier, including Hyperparameter tuning. 
+# Binary Classification with the Titanic Dataset
+An end to end machine learning project that goes among other things through Data Analysis, Data Preprocessing, building and evaluating Machine Learning models with a deep focus on the Random Forest Classifier, including Hyperparameter tuning. 
